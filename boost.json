@@ -5,6 +5,6 @@
     "editors": [
         "phpstorm"
     ],
-    "guidelines": [],
+    "guidelines": true,
     "herd_mcp": true
 }
